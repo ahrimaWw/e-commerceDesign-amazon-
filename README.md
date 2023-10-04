@@ -5,4 +5,4 @@ to be honest? i'm copying amazon's front-end to learn how amazon programmers wor
 PS: OnGoing.
 
 
-PSS: i use React.
+PSS: i'm using React, HTML, JS,CSS and node.
